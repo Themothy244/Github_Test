@@ -1,3 +1,3 @@
 # ISULAT NYO PANGALAN NYO DITO
 # try nyo kung pano mag commit ng code
-print("Brix Ivan Daus")
+print("Brix Daus")
